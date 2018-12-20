@@ -16,3 +16,5 @@ print "His teeth are usually %s depending upon coffee" %my_teeth
 
 print "If i add %d, %d, and %d I got %d." %(my_age,my_hight,my_weight,my_age+my_hight+my_weight)
 print "*********************"
+
+print "all chages"
